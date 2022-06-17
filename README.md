@@ -2,7 +2,7 @@
 
 
 - 🔭 Estudando para me tornar um Fullstack
-- 🌱 Cursando Ciência da computação UNICSUL
+- 🌱 Cursando Ciência da computação Universidade Cruzeiro do Sul
 - 📫 Contate-me no email: guilhermegsouza520@gmail.com
 
 <div align="center">
