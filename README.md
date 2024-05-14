@@ -1,7 +1,7 @@
 ### Opa! Meu nome é Guilherme, bem-vindo(a) ao meu perfil!
 
 
-- 🔭 Estudando para me tornar um Fullstack
+- 🔭 Application Security Enginner
 - 🌱 Cursando Ciência da computação Universidade Cruzeiro do Sul
 - 📫 Contate-me no email: guilhermegsouza520@gmail.com
 
